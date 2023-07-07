@@ -3,8 +3,8 @@
   "name": "Member_UI_Container_Block",
   "type": "ui-container",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/5Jul.git",
+    "ssh": "git@github.com:grgshiji/5Jul.git",
     "branch": "block_Member_UI_Container_Block"
   },
   "parentBlockIDs": [

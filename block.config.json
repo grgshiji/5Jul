@@ -2,8 +2,8 @@
   "name": "5Jul",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/5Jul.git",
+    "ssh": "git@github.com:grgshiji/5Jul.git",
     "branch": "block_5Jul"
   },
   "dependencies": {
