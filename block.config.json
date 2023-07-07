@@ -1,0 +1,25 @@
+{
+  "blockId": "x7njjBVfQtntYETpqnW2e",
+  "name": "Member_UI_Container_Block",
+  "type": "ui-container",
+  "source": {
+    "https": "https://github.com/grgshiji/5Jul.git",
+    "ssh": "git@github.com:grgshiji/5Jul.git",
+    "branch": "block_Member_UI_Container_Block"
+  },
+  "parentBlockIDs": [
+    "AMTNOmoz56F2-sAKyPcQb",
+    "KP4kE-oj7DS3P6b9AY0-H"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "version": "0.0.1",
+  "versionId": "xYR7lvTaQs15PWZ5HiKcs",
+  "variantOf": "xYR7lvTaQs15PWZ5HiKcs"
+}
