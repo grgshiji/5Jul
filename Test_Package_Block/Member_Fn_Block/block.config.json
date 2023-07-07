@@ -1,0 +1,24 @@
+{
+  "blockId": "aPfWIpWS7whTgWXcyLoMT",
+  "name": "Member_Fn_Block",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_Member_Fn_Block"
+  },
+  "parentBlockIDs": [
+    "AMTNOmoz56F2-sAKyPcQb",
+    "KP4kE-oj7DS3P6b9AY0-H"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js",
+  "version": "0.0.1",
+  "versionId": "qjuufK3I3mZ1ZVoGRBP6C",
+  "variantOf": "qjuufK3I3mZ1ZVoGRBP6C"
+}

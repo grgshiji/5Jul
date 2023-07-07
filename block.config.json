@@ -1,0 +1,42 @@
+{
+  "name": "5Jul",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_5Jul"
+  },
+  "dependencies": {
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "Member_Fn_Block": {
+      "directory": "Member_Fn_Block"
+    },
+    "Test_Package_Block": {
+      "directory": "Test_Package_Block"
+    }
+  },
+  "blockId": "AMTNOmoz56F2-sAKyPcQb",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
